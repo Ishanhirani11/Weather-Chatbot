@@ -26,7 +26,7 @@ Before running the script, make sure you have the following:
 ### 1. Clone or download the repository**
 ```
 git clone https://github.com/Ishanhirani11/Weather-Chatbot.git
-cd weather-app-cli
+cd Weather-Chatbot
 ```
 
 ### 2. Create virtual environment
